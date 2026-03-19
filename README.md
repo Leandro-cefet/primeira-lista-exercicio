@@ -3,13 +3,13 @@
 Leandro Otávio de Almeida
 
 ## Questão 1
-  Resposta:
+  Resposta: letra E java.io
 
 ## Questão 2
-  Resposta:
+  Resposta: letra C long
 
 ## Questão 3
-  Resposta:
+  Resposta: letra A 2
 
 ## Questão 4
-  Resposta:
+  Resposta: letra C 12
